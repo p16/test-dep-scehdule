@@ -17,11 +17,7 @@
     "url": "https://github.com/p16/test-dep-scehdule/issues"
   },
   "homepage": "https://github.com/p16/test-dep-scehdule#readme",
-  "devDependencies": {
-    "mocha": "^9.1.4"
-  },
   "dependencies": {
-    "lodash": "^4.16.1",
     "pg": "^8.7.0"
   }
 }
