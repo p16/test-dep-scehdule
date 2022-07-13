@@ -19,7 +19,7 @@
   "homepage": "https://github.com/p16/test-dep-scehdule#readme",
   "dependencies": {
     "date-fns": "^2.24.0",
-    "fastify": "^2.15.0",
+    "fastify": "^4.2.1",
     "pg": "^8.7.0"
   }
 }
